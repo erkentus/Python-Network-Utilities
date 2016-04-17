@@ -1,5 +1,8 @@
 # Python-Network-Utilities
-Python Network Utilities for Linux/Windows systems
+Python Network Utilities for POSIX Compliant/Linux/Windows systems
+
+## Platform
+At the moment everything is tested only on OS X (El Capita 10.11.1) with the idea of supporting other systems however without any plan of extensive testing on other platforms (at least at the moment).
 
 ## Netcat
 Simple netcat implementation in python 2.7 - to open up command line access through tcp connection on the remote host
