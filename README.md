@@ -4,7 +4,7 @@ Python Network Utilities for Linux/Windows systems
 ## Netcat
 Simple netcat implementation in python 2.7 - to open up command line access through tcp connection on the remote host
 
-Two files 
+Two files: 
 1. netcat-server.py - to be placed in the server where command access is required
 2. netcat-client.py - to establish tcp connection, run commands, receive output
 
